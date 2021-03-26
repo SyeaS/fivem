@@ -6,4 +6,3 @@ description "desc"
 version "1.0.0.0"
 
 client_script "coordinates.lua"
-client_script "functions.lua"
